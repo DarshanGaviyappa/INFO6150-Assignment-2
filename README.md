@@ -1,7 +1,7 @@
 # INFO6150-Assignment2
 ## Assignment-2 of INFO610 by Darshan (gaviyappa.d@northeastern.edu)
 ### Portfolio  Website
-This is a simple portfolio website that utilises HTML and CSS made to let the users know about the car and few of its features. Click on the Tags for a dropdown with details on where the Tags are being used. 
+This is a simple portfolio website that utilises HTML and CSS made to let the users know about the profile of main. Click on the Tags for a dropdown with details on where the Tags are being used. 
 <details>
  <summary> Media Queries </summary> 
    
@@ -45,7 +45,7 @@ My Animoji as a favicon </details>
 <details>
  <summary> Video </summary> 
   
-  Used this video to the last biggest event i organised.
+  Used this video of my collage.
 </details>
 
 <details>

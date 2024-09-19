@@ -105,12 +105,12 @@ border: 0;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shreyas S - Portfolio</title>
+    <title>Darshan G - Portfolio</title>
     <link rel="stylesheet" href="./styles.css">
 
 
 </head>
-<header class="hero"> <h1> Shreyas Sreedhar</h1></header>
+<header class="hero"> <h1> Darshan Gaviyappa</h1></header>
 <body>
     
    
